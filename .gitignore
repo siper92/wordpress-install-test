@@ -8,3 +8,7 @@ _logs/*
 site_1/front/wp-content/upgrade/
 site_1/front/wp-content/cache/
 site_1/front/wp-content/uploads/
+
+site_1/subs/wp-content/upgrade/
+site_1/subs/wp-content/cache/
+site_1/subs/wp-content/uploads/
