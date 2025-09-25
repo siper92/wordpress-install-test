@@ -2,3 +2,6 @@
 *.log
 *.loc.md
 vendor/
+
+_logs/*
+.database/

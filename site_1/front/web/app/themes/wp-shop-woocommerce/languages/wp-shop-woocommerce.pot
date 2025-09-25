@@ -1,0 +1,1770 @@
+# Copyright (C) 2025 revolutionwp
+# This file is distributed under the GNU General Prefer License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Shop Woocommerce 2.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/wp-shop-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-09-16T08:22:08+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: wp-shop-woocommerce\n"
+
+#. Theme Name of the theme
+#: style.css
+#: revolution/inc/customizer.php:1483
+#: revolution/inc/customizer.php:1491
+msgid "WP Shop Woocommerce"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.revolutionwp.com/products/free-shop-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "WP Shop WooCommerce is a powerful and versatile WordPress theme designed to enhance the online shopping experience for businesses using WooCommerce. Tailored specifically for WooCommerce integration, it offers a seamless platform to create a professional, user-friendly online store. The theme features a clean, modern layout that emphasizes simplicity and ease of navigation, ensuring that customers can browse products, categories, and checkout processes effortlessly. The responsive design guarantees a smooth experience on any device, whether desktop, tablet, or mobile, enhancing accessibility for a wider audience. Customization options provide businesses the flexibility to tailor their storefronts, allowing adjustments to color schemes, typography, and layout elements, ensuring the website aligns with the brand’s unique identity. Functionality is central to the WP Shop WooCommerce theme, offering smooth product showcase capabilities, easy inventory management, and secure online transactions. It supports a variety of product types, from physical goods and digital downloads to affiliate products, making it ideal for businesses with diverse product offerings. Furthermore, the theme integrates social media links, allowing businesses to expand their reach and foster customer engagement on popular platforms. Perfect for online retail businesses, WP Shop WooCommerce is an excellent solution for building an e-commerce store to sell fashion, electronics, digital content, or subscriptions. With its robust integration with WooCommerce, the theme ensures that every aspect of your online retail business is optimized for efficiency, security, and growth. This theme is ideal for a wide range of eCommerce niches, including fashion eCommerce, electronics stores, furniture shops, home decor, beauty products, organic stores, fitness products, tech gadgets, digital products, subscription boxes, sports equipment, health and wellness, pet supplies, luxury items, books and media, handmade goods, art and crafts, toys and games, accessories, food delivery, gourmet products, vintage collectibles, auto parts, gift shops, home improvement, eco-friendly products, affiliate marketing, wholesale stores, and local delivery services. With its robust integration with WooCommerce, the theme ensures that every aspect of your online retail business is optimized for efficiency, security, and growth."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "revolutionwp"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.revolutionwp.com/"
+msgstr ""
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:25
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:31
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:56
+msgid "Comments are closed."
+msgstr ""
+
+#: demo-import/importer.php:261
+#: demo-import/wp_shop_woocommerce_config_file.php:43
+msgid "Plugins"
+msgstr ""
+
+#: demo-import/importer.php:265
+#: demo-import/tgm/class-tgm-plugin-activation.php:328
+#: demo-import/wp_shop_woocommerce_config_file.php:45
+msgid "Install Plugins"
+msgstr ""
+
+#: demo-import/importer.php:271
+msgid "Customizer"
+msgstr ""
+
+#: demo-import/importer.php:275
+msgid "Import Demo"
+msgstr ""
+
+#: demo-import/importer.php:282
+#: demo-import/wp_shop_woocommerce_config_file.php:58
+msgid "All Done"
+msgstr ""
+
+#: demo-import/importer.php:315
+msgid "Thank you for choosing this WP Shop Woocommerce Theme. Using this quick setup wizard, you will be able to configure your new website and get it running in just a few minutes. Just follow these simple steps mentioned in the wizard and get started with your website."
+msgstr ""
+
+#: demo-import/importer.php:329
+msgid "Install Recommended Plugins:\t"
+msgstr ""
+
+#: demo-import/importer.php:349
+msgid "This theme allows you to import demo content and add widgets. Install them using the button below. You can also update or deactivate them using the Customizer."
+msgstr ""
+
+#: demo-import/importer.php:362
+msgid "About WP Shop Woocommerce"
+msgstr ""
+
+#: demo-import/importer.php:363
+#: demo-import/importer.php:364
+msgid "Customize Your Demo"
+msgstr ""
+
+#: demo-import/importer.php:365
+msgid "Visit Your Site"
+msgstr ""
+
+#: demo-import/importer.php:368
+msgid "Finish"
+msgstr ""
+
+#: demo-import/importer.php:406
+msgid "No Slug Found"
+msgstr ""
+
+#: demo-import/importer.php:423
+msgid "Activating Plugin"
+msgstr ""
+
+#: demo-import/importer.php:438
+msgid "Updating Plugin"
+msgstr ""
+
+#: demo-import/importer.php:453
+msgid "Installing Plugin"
+msgstr ""
+
+#: demo-import/importer.php:462
+msgid "Success"
+msgstr ""
+
+#: demo-import/importer.php:482
+#: revolution/inc/breadcrumbs.php:314
+msgid "Home"
+msgstr ""
+
+#: demo-import/importer.php:492
+msgid "About"
+msgstr ""
+
+#: demo-import/importer.php:503
+msgid "Services"
+msgstr ""
+
+#: demo-import/importer.php:514
+msgid "Blog"
+msgstr ""
+
+#: demo-import/importer.php:525
+msgid "Contact Us"
+msgstr ""
+
+#: demo-import/importer.php:552
+msgid "Facebook"
+msgstr ""
+
+#: demo-import/importer.php:558
+msgid "Pinterest"
+msgstr ""
+
+#: demo-import/importer.php:564
+msgid "Twitter"
+msgstr ""
+
+#: demo-import/importer.php:570
+msgid "Youtube"
+msgstr ""
+
+#: demo-import/importer.php:576
+msgid "Instagram"
+msgstr ""
+
+#: demo-import/importer.php:917
+msgid "The quick setup wizard will assist you in configuring your new website. This wizard will import the demo content."
+msgstr ""
+
+#: demo-import/importer.php:920
+msgid "Go Premium Now"
+msgstr ""
+
+#: demo-import/plugin-activation.php:32
+msgid "Installing"
+msgstr ""
+
+#: demo-import/plugin-activation.php:33
+msgid "Activating"
+msgstr ""
+
+#: demo-import/plugin-activation.php:34
+msgid "Error"
+msgstr ""
+
+#. translators: 1: Plugin Name.
+#: demo-import/plugin-activation.php:106
+msgid "Install %s Now"
+msgstr ""
+
+#: demo-import/plugin-activation.php:108
+msgid "Install & Activate"
+msgstr ""
+
+#. translators: 1: Plugin Name.
+#: demo-import/plugin-activation.php:126
+msgid "Activate %s Now"
+msgstr ""
+
+#: demo-import/plugin-activation.php:128
+#: demo-import/tgm/class-tgm-plugin-activation.php:2722
+msgid "Activate"
+msgstr ""
+
+#: demo-import/plugin-activation.php:131
+#: demo-import/tgm/class-tgm-plugin-activation.php:2317
+msgid "Active"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: demo-import/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: demo-import/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: demo-import/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: demo-import/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: demo-import/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: demo-import/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: demo-import/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: demo-import/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:386
+#: demo-import/tgm/class-tgm-plugin-activation.php:823
+#: demo-import/tgm/class-tgm-plugin-activation.php:2529
+#: demo-import/tgm/class-tgm-plugin-activation.php:3576
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:387
+#: demo-import/tgm/class-tgm-plugin-activation.php:3155
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:388
+#: demo-import/tgm/class-tgm-plugin-activation.php:2948
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: demo-import/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: demo-import/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: demo-import/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:930
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:930
+#: demo-import/tgm/class-tgm-plugin-activation.php:933
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:933
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:1117
+#: demo-import/tgm/class-tgm-plugin-activation.php:2944
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: demo-import/tgm/class-tgm-plugin-activation.php:1978
+msgid "TGMPA v%s"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2269
+msgid "Required"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2272
+msgid "Recommended"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2288
+msgid "WordPress Repository"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2291
+msgid "External Source"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2294
+msgid "Pre-Packaged"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2311
+msgid "Not Installed"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2315
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2323
+msgid "Required Update not Available"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2326
+msgid "Requires Update"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2329
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: demo-import/tgm/class-tgm-plugin-activation.php:2338
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: demo-import/tgm/class-tgm-plugin-activation.php:2384
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: demo-import/tgm/class-tgm-plugin-activation.php:2388
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: demo-import/tgm/class-tgm-plugin-activation.php:2392
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: demo-import/tgm/class-tgm-plugin-activation.php:2396
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2478
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2486
+msgid "Installed version:"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2494
+msgid "Minimum required version:"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2506
+msgid "Available version:"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2529
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2543
+msgid "Plugin"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2544
+msgid "Source"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2545
+msgid "Type"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2549
+msgid "Version"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2550
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: demo-import/tgm/class-tgm-plugin-activation.php:2599
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: demo-import/tgm/class-tgm-plugin-activation.php:2604
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: demo-import/tgm/class-tgm-plugin-activation.php:2610
+msgid "Activate %2$s"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2680
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2713
+msgid "Install"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2719
+msgid "Update"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2753
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2755
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2796
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2798
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2904
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:2930
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:3154
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: demo-import/tgm/class-tgm-plugin-activation.php:3494
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: demo-import/tgm/class-tgm-plugin-activation.php:3497
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: demo-import/tgm/class-tgm-plugin-activation.php:3499
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: demo-import/tgm/class-tgm-plugin-activation.php:3505
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: demo-import/tgm/class-tgm-plugin-activation.php:3505
+#: demo-import/tgm/class-tgm-plugin-activation.php:3513
+msgid "Show Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: demo-import/tgm/class-tgm-plugin-activation.php:3505
+#: demo-import/tgm/class-tgm-plugin-activation.php:3513
+msgid "Hide Details"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:3506
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: demo-import/tgm/class-tgm-plugin-activation.php:3508
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:3511
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: demo-import/tgm/class-tgm-plugin-activation.php:3513
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: demo-import/tgm/class-tgm-plugin-activation.php:3514
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: demo-import/tgm/class-tgm-plugin-activation.php:3516
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: demo-import/tgm/tgm.php:9
+msgid "Woocommerce"
+msgstr ""
+
+#: demo-import/wp_shop_woocommerce_config_file.php:35
+msgid "Welcome to "
+msgstr ""
+
+#: demo-import/wp_shop_woocommerce_config_file.php:37
+msgid "System Status"
+msgstr ""
+
+#: demo-import/wp_shop_woocommerce_config_file.php:50
+msgid "Demo Importer"
+msgstr ""
+
+#: demo-import/wp_shop_woocommerce_config_file.php:52
+msgid "Click On The Image To Import Customizer Demo"
+msgstr ""
+
+#: demo-import/wp_shop_woocommerce_config_file.php:53
+msgid "Click On The Image To Import Gutenberg Block Demo"
+msgstr ""
+
+#: footer.php:54
+msgid "Search"
+msgstr ""
+
+#: footer.php:58
+msgid "Tags"
+msgstr ""
+
+#: footer.php:72
+msgid "No tags available. Add some tags to display here."
+msgstr ""
+
+#: footer.php:78
+#: page.php:100
+#: page.php:179
+#: sidebar.php:80
+msgid "Calender"
+msgstr ""
+
+#: footer.php:105
+msgid "WP Shop WordPress Theme By Revolution WP "
+msgstr ""
+
+#: functions.php:24
+msgid "Primary"
+msgstr ""
+
+#: functions.php:25
+msgid "Social Menu"
+msgstr ""
+
+#: functions.php:79
+msgid "Welcome to WP Shop Woocommerce"
+msgstr ""
+
+#: functions.php:105
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:107
+#: functions.php:119
+#: functions.php:131
+#: functions.php:143
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:117
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:129
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:141
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:233
+msgid "Related Post"
+msgstr ""
+
+#: functions.php:380
+msgid "https://wordpress.org/support/theme/wp-shop-woocommerce/"
+msgstr ""
+
+#: functions.php:381
+msgid "https://www.revolutionwp.com/pages/community/"
+msgstr ""
+
+#: functions.php:382
+msgid "https://wordpress.org/support/theme/wp-shop-woocommerce/reviews/#new-post"
+msgstr ""
+
+#: functions.php:383
+msgid "https://www.revolutionwp.com/products/woocommerce-wordpress-theme"
+msgstr ""
+
+#: functions.php:384
+msgid "https://demo.revolutionwp.com/shop-cart-woocommerce-pro/"
+msgstr ""
+
+#: functions.php:385
+msgid "https://demo.revolutionwp.com/wpdocs/shop-cart-woocommerce-pro/"
+msgstr ""
+
+#: functions.php:386
+msgid "https://demo.revolutionwp.com/wpdocs/shop-cart-woocommerce-free/"
+msgstr ""
+
+#: functions.php:426
+msgid "Dismiss"
+msgstr ""
+
+#. translators: %s!: Theme Name.
+#: functions.php:437
+msgid "Welcome to the free theme: %s!"
+msgstr ""
+
+#: functions.php:441
+msgid "Get started by exploring the features of your new theme. Customize your design, add your content, and create a site that fits your vision."
+msgstr ""
+
+#: functions.php:446
+msgid "Theme Screenshot"
+msgstr ""
+
+#: functions.php:450
+msgid "Quick Start: Import Demo"
+msgstr ""
+
+#: functions.php:451
+msgid "Use the Demo Importer to quickly set up your site with a pre-made layout. Get a complete site in minutes."
+msgstr ""
+
+#: functions.php:452
+msgid "Go to Demo Importer"
+msgstr ""
+
+#: functions.php:456
+msgid "Customize Your Theme"
+msgstr ""
+
+#: functions.php:457
+msgid "Want to make it truly yours? Explore the Getting Started Guide to personalize your site to suit your needs."
+msgstr ""
+
+#: functions.php:458
+msgid "View Getting Started Guide"
+msgstr ""
+
+#. translators: 1: Theme Name.
+#: getstarted/wp_shop_woocommerce_about_page.php:47
+#: getstarted/wp_shop_woocommerce_about_page.php:48
+msgid "About %1$s"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:57
+msgid "Getting Started"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:58
+msgid "Free VS Pro"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:59
+msgid "Changelog"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:60
+msgid "Support"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:61
+msgid "Rate & Review"
+msgstr ""
+
+#. translators: 1: Theme Name.
+#: getstarted/wp_shop_woocommerce_about_page.php:72
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:79
+#: getstarted/wp_shop_woocommerce_about_page.php:401
+msgid "Buy Pro Theme"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:80
+msgid "Preview Pro Version"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:172
+msgid "Theme screenshot"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:179
+#: getstarted/wp_shop_woocommerce_about_page.php:226
+msgid "One Click Demo Import"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:180
+msgid "Easily set up your website with our One Click Demo Import feature. This functionality allows you to replicate our demo site with just a single click, ensuring you have a fully functional layout to start from. Whether you’re a beginner or an experienced developer, this tool simplifies the setup process, saving you time and effort."
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:181
+msgid "Click Here For Demo Import"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:185
+msgid "Documentation"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:186
+msgid "Need more details? Check our comprehensive documentation for step-by-step guidance on using the WP Shop Woocommerce Theme."
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:187
+msgid "Go to Free Docs"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:191
+msgid "Preview Pro Theme"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:192
+msgid "Discover the full potential of our Pro Theme! Click the Live Demo button to experience premium features and beautiful designs."
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:193
+msgid "Live Demo"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:197
+msgid "Buy WP Shop Woocommerce Pro"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:198
+msgid "Unlock unlimited features and enhancements by purchasing the Pro version of WP Shop Woocommerce Theme."
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:199
+msgid "Buy Pro Version @$39"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:203
+msgid "Get the Bundle"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:204
+msgid "The WordPress Theme Bundle is a comprehensive collection of 30+ premium themes, offering everything you need to create stunning, professional websites with ease."
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:205
+msgid "Get Bundle"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:218
+msgid "Features"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:219
+msgid "Free theme"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:220
+msgid "Pro Theme"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:230
+msgid "After the activation of WP Shop Woocommerce theme, all settings will be imported and Data Import."
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:242
+msgid "Responsive Design"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:252
+msgid "Site Logo upload"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:262
+msgid "Footer Copyright text"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:266
+msgid "Remove the copyright text from the Footer."
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:278
+msgid "Global Color"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:288
+msgid "Regular Bug Fixes"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:298
+msgid "Theme Sections"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:301
+msgid "2 Sections"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:302
+msgid "15+ Sections"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:308
+msgid "Custom colors"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:312
+msgid "Choose a color for links, buttons, icons and so on."
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:324
+msgid "Google fonts"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:328
+msgid "You can choose and use over 600 different fonts, for the logo, the menu and the titles."
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:340
+msgid "Enhanced Plugin Integration"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:350
+msgid "Fully SEO Optimized"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:360
+msgid "Premium Support"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:370
+msgid "Extensive Customization"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:380
+msgid "Custom Post Types"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:390
+msgid "High-Level Compatibility with Modern Browsers"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_about_page.php:399
+msgid "Try Out Our Premium Version"
+msgstr ""
+
+#: getstarted/wp_shop_woocommerce_changelog.php:29
+msgid "No changelog available."
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:91
+msgid "My Account"
+msgstr ""
+
+#: header.php:94
+msgid "Login / Register"
+msgstr ""
+
+#: header.php:102
+msgid "shopping cart"
+msgstr ""
+
+#: page.php:40
+#: page.php:119
+#: sidebar.php:20
+msgid "Search Anything"
+msgstr ""
+
+#: page.php:44
+#: page.php:123
+#: sidebar.php:24
+msgid "Latest Posts"
+msgstr ""
+
+#: page.php:55
+#: page.php:134
+#: sidebar.php:35
+msgid "Latest Comments"
+msgstr ""
+
+#: page.php:69
+#: page.php:148
+#: sidebar.php:49
+msgid "Explore Categories"
+msgstr ""
+
+#: page.php:79
+#: page.php:158
+#: sidebar.php:59
+msgid "Blog Archives"
+msgstr ""
+
+#: page.php:90
+#: page.php:169
+#: sidebar.php:70
+msgid "Explore Our Pages"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr ""
+
+#: revolution-home.php:16
+msgid "ALL CATEGORIES"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:312
+msgid "Browse:"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:313
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:315
+msgid "404 Not Found"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:316
+msgid "Archives"
+msgstr ""
+
+#. Translators: %s is the search query.
+#: revolution/inc/breadcrumbs.php:318
+msgid "Search results for: %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: revolution/inc/breadcrumbs.php:320
+msgid "Page %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: revolution/inc/breadcrumbs.php:322
+msgid "Comment Page %s"
+msgstr ""
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: revolution/inc/breadcrumbs.php:324
+msgid "Minute %s"
+msgstr ""
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: revolution/inc/breadcrumbs.php:326
+msgid "Week %s"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:786
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:803
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:820
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:836
+#: revolution/inc/breadcrumbs.php:865
+#: revolution/inc/breadcrumbs.php:892
+#: revolution/inc/breadcrumbs.php:919
+#: revolution/inc/breadcrumbs.php:1259
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:837
+#: revolution/inc/breadcrumbs.php:893
+#: revolution/inc/breadcrumbs.php:1263
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:838
+#: revolution/inc/breadcrumbs.php:1267
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: revolution/inc/breadcrumbs.php:866
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: revolution/inc/customizer.php:38
+msgid "WooCommerce Custom Settings"
+msgstr ""
+
+#: revolution/inc/customizer.php:55
+msgid "Product Per Single Row"
+msgstr ""
+
+#: revolution/inc/customizer.php:79
+msgid "Product Per One Page"
+msgstr ""
+
+#: revolution/inc/customizer.php:104
+msgid "Enable Related Product"
+msgstr ""
+
+#: revolution/inc/customizer.php:105
+msgid "Checked to show Related Product"
+msgstr ""
+
+#: revolution/inc/customizer.php:124
+msgid "Related Product Count"
+msgstr ""
+
+#: revolution/inc/customizer.php:148
+msgid "Related Product Per Row"
+msgstr ""
+
+#: revolution/inc/customizer.php:166
+msgid "Archive Product Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:169
+#: revolution/inc/customizer.php:185
+#: revolution/inc/customizer.php:299
+#: revolution/inc/customizer.php:315
+#: revolution/inc/customizer.php:331
+msgid "Sidebar On Right"
+msgstr ""
+
+#: revolution/inc/customizer.php:170
+#: revolution/inc/customizer.php:186
+#: revolution/inc/customizer.php:300
+#: revolution/inc/customizer.php:316
+#: revolution/inc/customizer.php:332
+msgid "Sidebar On Left"
+msgstr ""
+
+#: revolution/inc/customizer.php:171
+#: revolution/inc/customizer.php:187
+#: revolution/inc/customizer.php:301
+#: revolution/inc/customizer.php:317
+#: revolution/inc/customizer.php:333
+msgid "Full Width Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:182
+msgid "Single Product Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:198
+msgid "Woocommerce Product Sale Positions"
+msgstr ""
+
+#: revolution/inc/customizer.php:202
+#: revolution/inc/customizer.php:436
+#: revolution/inc/customizer.php:1358
+msgid "Right"
+msgstr ""
+
+#: revolution/inc/customizer.php:203
+#: revolution/inc/customizer.php:434
+#: revolution/inc/customizer.php:1359
+msgid "Left"
+msgstr ""
+
+#: revolution/inc/customizer.php:204
+#: revolution/inc/customizer.php:435
+#: revolution/inc/customizer.php:1360
+msgid "Center"
+msgstr ""
+
+#: revolution/inc/customizer.php:214
+msgid "Shop Woocommerce Theme Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:222
+msgid "Additional Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:240
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: revolution/inc/customizer.php:241
+msgid "Checked to enable sticky header"
+msgstr ""
+
+#: revolution/inc/customizer.php:261
+msgid "Enable Preloader"
+msgstr ""
+
+#: revolution/inc/customizer.php:262
+msgid "Checked to show preloader"
+msgstr ""
+
+#: revolution/inc/customizer.php:282
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: revolution/inc/customizer.php:283
+msgid "Checked to show Breadcrumbs"
+msgstr ""
+
+#: revolution/inc/customizer.php:296
+msgid "Post Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:312
+msgid "Single Post Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:328
+msgid "Single Page Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:342
+msgid "Blog Page Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:353
+msgid "Enable Blog Post Title"
+msgstr ""
+
+#: revolution/inc/customizer.php:354
+msgid "Checked To Show Blog Post Title"
+msgstr ""
+
+#: revolution/inc/customizer.php:366
+msgid "Enable Blog Post Meta"
+msgstr ""
+
+#: revolution/inc/customizer.php:367
+msgid "Checked To Show Blog Post Meta Feilds"
+msgstr ""
+
+#: revolution/inc/customizer.php:379
+msgid "Enable Blog Post Tags"
+msgstr ""
+
+#: revolution/inc/customizer.php:380
+msgid "Checked To Show Blog Post Tags"
+msgstr ""
+
+#: revolution/inc/customizer.php:392
+msgid "Enable Blog Post Image"
+msgstr ""
+
+#: revolution/inc/customizer.php:393
+msgid "Checked To Show Blog Post Image"
+msgstr ""
+
+#: revolution/inc/customizer.php:405
+msgid "Enable Blog Post Content"
+msgstr ""
+
+#: revolution/inc/customizer.php:406
+msgid "Checked To Show Blog Post Content"
+msgstr ""
+
+#: revolution/inc/customizer.php:418
+msgid "Enable Blog Post Read More Button"
+msgstr ""
+
+#: revolution/inc/customizer.php:419
+msgid "Checked To Show Blog Post Read More Button"
+msgstr ""
+
+#: revolution/inc/customizer.php:431
+msgid "Blog Post Content Layout"
+msgstr ""
+
+#: revolution/inc/customizer.php:454
+msgid "Excerpt Limit"
+msgstr ""
+
+#: revolution/inc/customizer.php:479
+msgid "Edit Button Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:490
+msgid "Single Post Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:501
+msgid "Enable Single Post Title"
+msgstr ""
+
+#: revolution/inc/customizer.php:502
+msgid "Checked To Show Single Blog Post Title"
+msgstr ""
+
+#: revolution/inc/customizer.php:514
+msgid "Enable Single Post Meta"
+msgstr ""
+
+#: revolution/inc/customizer.php:515
+msgid "Checked To Show Single Blog Post Meta Feilds"
+msgstr ""
+
+#: revolution/inc/customizer.php:527
+msgid "Enable Single Post Tags"
+msgstr ""
+
+#: revolution/inc/customizer.php:528
+msgid "Checked To Show Single Blog Post Tags"
+msgstr ""
+
+#: revolution/inc/customizer.php:540
+msgid "Enable Single Post Image"
+msgstr ""
+
+#: revolution/inc/customizer.php:541
+msgid "Checked To Show Single Post Image"
+msgstr ""
+
+#: revolution/inc/customizer.php:553
+msgid "Enable Single Post Content"
+msgstr ""
+
+#: revolution/inc/customizer.php:554
+msgid "Checked To Show Single Blog Post Content"
+msgstr ""
+
+#: revolution/inc/customizer.php:573
+msgid "Enable Related Post"
+msgstr ""
+
+#: revolution/inc/customizer.php:574
+msgid "Checked to show Related Post"
+msgstr ""
+
+#: revolution/inc/customizer.php:594
+msgid "Edit Related Post Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:614
+msgid "Related Post Count"
+msgstr ""
+
+#: revolution/inc/customizer.php:634
+msgid "Global Color Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:650
+msgid "Primary Color"
+msgstr ""
+
+#: revolution/inc/customizer.php:668
+msgid "Secondary Color"
+msgstr ""
+
+#: revolution/inc/customizer.php:692
+msgid "Enable Title"
+msgstr ""
+
+#: revolution/inc/customizer.php:693
+msgid "Enable or Disable Title from the site"
+msgstr ""
+
+#: revolution/inc/customizer.php:712
+msgid "Enable Tagline"
+msgstr ""
+
+#: revolution/inc/customizer.php:713
+msgid "Enable or Disable Tagline from the site"
+msgstr ""
+
+#: revolution/inc/customizer.php:732
+msgid "Logo Width in PX"
+msgstr ""
+
+#: revolution/inc/customizer.php:746
+msgid "Typography Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:756
+msgid "Global Font Family"
+msgstr ""
+
+#: revolution/inc/customizer.php:760
+msgid "Default (Theme Font)"
+msgstr ""
+
+#: revolution/inc/customizer.php:776
+msgid "Top Header Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:795
+msgid "Edit Phone No "
+msgstr ""
+
+#: revolution/inc/customizer.php:807
+msgid "Phone Number Icon"
+msgstr ""
+
+#: revolution/inc/customizer.php:827
+msgid "Edit Email Address "
+msgstr ""
+
+#: revolution/inc/customizer.php:839
+msgid "Mail Icon"
+msgstr ""
+
+#: revolution/inc/customizer.php:859
+msgid "Edit Header Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:877
+msgid "Main Slider Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:895
+msgid "Enable Main Slider"
+msgstr ""
+
+#: revolution/inc/customizer.php:896
+msgid "Checked to show the main slider"
+msgstr ""
+
+#: revolution/inc/customizer.php:919
+msgid "Edit Slider Image "
+msgstr ""
+
+#: revolution/inc/customizer.php:920
+msgid "Edit the slider image."
+msgstr ""
+
+#: revolution/inc/customizer.php:940
+msgid "Edit Extra Heading Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:941
+msgid "Edit the slider Extra heading text."
+msgstr ""
+
+#: revolution/inc/customizer.php:961
+msgid "Edit Heading Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:962
+msgid "Edit the slider heading text."
+msgstr ""
+
+#: revolution/inc/customizer.php:982
+msgid "Edit Content Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:983
+msgid "Edit the slider content text."
+msgstr ""
+
+#: revolution/inc/customizer.php:1003
+msgid "Edit Button #1 Text "
+msgstr ""
+
+#: revolution/inc/customizer.php:1004
+msgid "Edit the slider button text."
+msgstr ""
+
+#: revolution/inc/customizer.php:1024
+msgid "Edit Button #1 URL "
+msgstr ""
+
+#: revolution/inc/customizer.php:1025
+msgid "Edit the slider button url."
+msgstr ""
+
+#: revolution/inc/customizer.php:1041
+msgid "Product Category Option"
+msgstr ""
+
+#: revolution/inc/customizer.php:1059
+msgid "Enable Product Section"
+msgstr ""
+
+#: revolution/inc/customizer.php:1060
+msgid "Select the category from dropdown"
+msgstr ""
+
+#: revolution/inc/customizer.php:1081
+msgid "Edit Portfolio Image "
+msgstr ""
+
+#: revolution/inc/customizer.php:1082
+msgid "Edit the category image."
+msgstr ""
+
+#: revolution/inc/customizer.php:1102
+msgid "Edit Sale Heading"
+msgstr ""
+
+#: revolution/inc/customizer.php:1103
+msgid "Edit Product Sale text."
+msgstr ""
+
+#: revolution/inc/customizer.php:1123
+msgid "Edit Discount Text"
+msgstr ""
+
+#: revolution/inc/customizer.php:1124
+msgid "Edit Product Discount text."
+msgstr ""
+
+#: revolution/inc/customizer.php:1144
+msgid "Edit Heading"
+msgstr ""
+
+#: revolution/inc/customizer.php:1145
+msgid "Edit product heading text."
+msgstr ""
+
+#: revolution/inc/customizer.php:1165
+msgid "Edit Sub Heading"
+msgstr ""
+
+#: revolution/inc/customizer.php:1166
+msgid "Edit Product heading text."
+msgstr ""
+
+#: revolution/inc/customizer.php:1186
+msgid "Edit Button Text"
+msgstr ""
+
+#: revolution/inc/customizer.php:1187
+msgid "Edit portfolio button text."
+msgstr ""
+
+#: revolution/inc/customizer.php:1207
+msgid "Edit Button Link "
+msgstr ""
+
+#: revolution/inc/customizer.php:1208
+msgid "Edit portfolio button link."
+msgstr ""
+
+#: revolution/inc/customizer.php:1228
+msgid "Edit Section Heading"
+msgstr ""
+
+#: revolution/inc/customizer.php:1229
+msgid "Edit product section heading"
+msgstr ""
+
+#: revolution/inc/customizer.php:1257
+msgid "Select Product Category"
+msgstr ""
+
+#: revolution/inc/customizer.php:1269
+msgid "Footer Options"
+msgstr ""
+
+#: revolution/inc/customizer.php:1287
+msgid "Enable Footer"
+msgstr ""
+
+#: revolution/inc/customizer.php:1288
+msgid "Checked to show Footer"
+msgstr ""
+
+#: revolution/inc/customizer.php:1302
+msgid "Footer Background Image"
+msgstr ""
+
+#: revolution/inc/customizer.php:1320
+msgid "Enable Footer Social Menu"
+msgstr ""
+
+#: revolution/inc/customizer.php:1321
+msgid "Checked to show the footer social menu. Go to Dashboard >> Appearance >> Menus >> Create New Menu >> Add Custom Link >> Add Social Menu >> Checked Social Menu >> Save Menu."
+msgstr ""
+
+#: revolution/inc/customizer.php:1340
+msgid "Enable Go To Top"
+msgstr ""
+
+#: revolution/inc/customizer.php:1341
+msgid "Checked to enable Go To Top option."
+msgstr ""
+
+#: revolution/inc/customizer.php:1356
+msgid "Go To Top Positions"
+msgstr ""
+
+#: revolution/inc/customizer.php:1377
+msgid "Edit Copyright Text"
+msgstr ""
+
+#: revolution/inc/customizer.php:1378
+msgid "Edit the Footer Copyright Section."
+msgstr ""
+
+#: revolution/inc/customizer.php:1484
+#: revolution/inc/customizer.php:1492
+msgid "Buy Pro"
+msgstr ""
+
+#: revolution/inc/customizer.php:1499
+msgid "Lite Documentation"
+msgstr ""
+
+#: revolution/inc/customizer.php:1500
+msgid "Instruction"
+msgstr ""
+
+#: revolution/inc/customizer.php:1506
+msgid "Pro Theme Demo"
+msgstr ""
+
+#: revolution/inc/customizer.php:1507
+msgid "Live Preview"
+msgstr ""
+
+#: revolution/inc/fontawesome-change.php:24
+msgctxt "placeholder"
+msgid "Search Icon"
+msgstr ""
+
+#. translators: %s: post date.
+#: revolution/inc/template-tags.php:26
+msgid "<strong>Posted on:</strong> %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: revolution/inc/template-tags.php:38
+msgctxt "post author"
+msgid "- %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: revolution/inc/template-tags.php:52
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: revolution/inc/template-tags.php:55
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: revolution/inc/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: revolution/inc/template-tags.php:62
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: revolution/inc/template-tags.php:72
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: revolution/inc/template-tags.php:89
+#: revolution/template-parts/content-page.php:38
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: revolution/template-parts/content-audio.php:103
+#: revolution/template-parts/content-audio.php:115
+#: revolution/template-parts/content-gallery.php:87
+#: revolution/template-parts/content-gallery.php:99
+#: revolution/template-parts/content-image.php:108
+#: revolution/template-parts/content-image.php:120
+#: revolution/template-parts/content-search.php:74
+#: revolution/template-parts/content-search.php:86
+#: revolution/template-parts/content-video.php:104
+#: revolution/template-parts/content-video.php:116
+#: revolution/template-parts/content.php:74
+#: revolution/template-parts/content.php:86
+msgid "Post Tags: "
+msgstr ""
+
+#: revolution/template-parts/content-audio.php:177
+#: revolution/template-parts/content-audio.php:180
+#: revolution/template-parts/content-gallery.php:161
+#: revolution/template-parts/content-gallery.php:164
+#: revolution/template-parts/content-image.php:148
+#: revolution/template-parts/content-image.php:151
+#: revolution/template-parts/content-search.php:148
+#: revolution/template-parts/content-search.php:151
+#: revolution/template-parts/content-video.php:178
+#: revolution/template-parts/content-video.php:181
+#: revolution/template-parts/content.php:148
+#: revolution/template-parts/content.php:151
+msgid "Continue Reading...."
+msgstr ""
+
+#: revolution/template-parts/content-audio.php:189
+#: revolution/template-parts/content-gallery.php:173
+#: revolution/template-parts/content-image.php:160
+#: revolution/template-parts/content-page.php:24
+#: revolution/template-parts/content-search.php:160
+#: revolution/template-parts/content-video.php:190
+#: revolution/template-parts/content.php:160
+msgid "Pages:"
+msgstr ""
+
+#: revolution/template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: revolution/template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: revolution/template-parts/content-none.php:36
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: revolution/template-parts/content-none.php:43
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:26
+#: search.php:63
+#: search.php:98
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:28
+#: single.php:66
+#: single.php:99
+msgid "Previous:"
+msgstr ""
+
+#: single.php:29
+#: single.php:67
+#: single.php:100
+msgid "Next:"
+msgstr ""
