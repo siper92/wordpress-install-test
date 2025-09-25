@@ -32,6 +32,8 @@ services:
       - task-internal
     volumes:
       - ./_env/.database:/var/lib/mysql
+    ports:
+      - "3306:3306"
 
 networks:
   task-internal:
