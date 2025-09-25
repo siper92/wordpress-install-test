@@ -1,7 +1,10 @@
 .idea
 *.log
 *.loc.md
-vendor/
 
 _logs/*
 .database/
+
+site_1/front/wp-content/upgrade/
+site_1/front/wp-content/cache/
+site_1/front/wp-content/uploads/
