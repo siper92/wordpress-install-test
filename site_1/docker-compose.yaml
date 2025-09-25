@@ -7,15 +7,26 @@ services:
     volumes:
       - ./_env/dev/server/nginx.conf:/etc/nginx/conf.d/default.conf:ro
       - ./front:/app:ro
+      - ./subs:/subs:ro
     networks:
       - task-internal
     depends_on:
       - front
+      - subs
   front:
     image: task_atop:wp.dev
     container_name: front
     volumes:
       - ./front:/app
+    networks:
+      - task-internal
+    depends_on:
+      - db
+  subs:
+    image: task_atop:wp.dev
+    container_name: subs
+    volumes:
+      - ./subs:/subs
     networks:
       - task-internal
     depends_on:
